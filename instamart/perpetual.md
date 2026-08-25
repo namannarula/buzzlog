@@ -1,3 +1,17 @@
+#### Your Instamart order was delivered!
+Keep ordering from Instamart to get your favourite items instantly!
+
+*Aug 25, 2026 · 07:02 PM IST · `promotional` · warm, informational · cta: order_now*
+
+---
+
+#### Order Arriving Now!
+[name] has reached your location. Your order will be delivered soon.
+
+*Aug 25, 2026 · 07:02 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Instamart order confirmed
 We’re working the Instamart magic to safely deliver your order in 11 mins!
 
