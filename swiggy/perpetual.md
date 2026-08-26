@@ -1,3 +1,10 @@
+#### 
+Order delivered successfully
+
+*Aug 26, 2026 · 07:05 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Arrived at location
 Get ready to collect your order
 
