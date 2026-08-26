@@ -1,3 +1,10 @@
+#### Did you enjoy your meal from Thalairaj Biryani?
+Tell us what you thought.
+
+*Aug 26, 2026 · 07:16 PM IST · `engagement` · informational · cta: none*
+
+---
+
 #### 
 Order delivered successfully
 
