@@ -1,3 +1,10 @@
+#### IndiGo BluChips Earned!🎉
+You've earned 1 IndiGo BluChips with your Swiggy order! Keep ordering to rack up rewards!🥳
+
+*Aug 28, 2026 · 05:25 PM IST · `loyalty` · playful, informational · cta: none*
+
+---
+
 #### Did you enjoy your meal from Thalairaj Biryani?
 Tell us what you thought.
 

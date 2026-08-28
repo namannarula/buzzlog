@@ -1,3 +1,31 @@
+#### 
+Order delivered successfully ⚡️
+
+*Aug 28, 2026 · 05:25 PM IST · `transactional` · informational · cta: none*
+
+---
+
+#### Arrived at location
+Get ready to collect your order
+
+*Aug 28, 2026 · 05:25 PM IST · `transactional` · informational, warm · cta: order_now*
+
+---
+
+#### Arriving in 5 mins
+Your order is out for delivery
+
+*Aug 28, 2026 · 05:25 PM IST · `transactional` · informational · cta: none*
+
+---
+
+#### Arriving in 13 mins
+Your order is getting packed
+
+*Aug 28, 2026 · 05:25 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Missing: Your feedback 🔎︎
 How was [item]? Let us know!
 
