@@ -1,3 +1,10 @@
+#### Order from Chinese Corner
+Your delivery partner has reached the restaurant
+
+*Aug 29, 2026 · 06:42 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Nagendra is your delivery partner
 They are on their way to pick up your order
 
