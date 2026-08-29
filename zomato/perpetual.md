@@ -1,3 +1,10 @@
+#### Order is on its way! 🛵
+Pay online before your order arrives and skip the hassle of cash payment ✌
+
+*Aug 29, 2026 · 06:43 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Order from Chinese Corner
 Your delivery partner has reached the restaurant
 
