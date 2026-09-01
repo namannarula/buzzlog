@@ -1,3 +1,10 @@
+#### Bubble Tea @ [price] [price] 🧋
+Flash Sale is live at Boba Bhai! Exclusively on Dineout. Grab now!
+
+*Aug 31, 2026 · 05:18 PM IST · `flash_sale` · urgent, informational, warm · cta: order_now*
+
+---
+
 #### IndiGo BluChips Earned!🎉
 You've earned 1 IndiGo BluChips with your Swiggy order! Keep ordering to rack up rewards!🥳
 
