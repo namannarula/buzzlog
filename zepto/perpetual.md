@@ -1,3 +1,10 @@
+#### Dessert for [price]?! 👀🍰
+YES! ✨Get Go Zero Chocolate Guilt Free Ice Cream Pastry @ [price] [price]!
+
+*Sep 01, 2026 · 07:20 PM IST · `promotional` · playful bold · cta: order_now*
+
+---
+
 #### Still deciding [name]? 🤔
 Get Coca-Cola Can| Cola Sparkling Soft Drink | The Coca-Cola Company now 🛒
 
