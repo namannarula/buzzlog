@@ -1,3 +1,10 @@
+#### Zoned out? Happens. 😵‍💫
+FREE delivery still waiting on your order - tap here & jump back in!
+
+*Sep 01, 2026 · 08:56 PM IST · `engagement` · urgent, warm · cta: order_now*
+
+---
+
 #### 
 Order delivered successfully ⚡️
 
