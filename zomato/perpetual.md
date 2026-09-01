@@ -1,3 +1,17 @@
+#### Order delivered ✅
+Your delivery partner, Vijay has delivered your order successfully
+
+*Sep 01, 2026 · 01:25 PM IST · `transactional` · informational · cta: none*
+
+---
+
+#### Arriving shortly 🛵
+Your delivery partner, [name], will deliver your order soon
+
+*Sep 01, 2026 · 01:19 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### That was quick 🚀
 What a quick delivery! Nagendra delivered your order 8 mins early. Tip them to appreciate their effort!
 
