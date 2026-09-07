@@ -1,3 +1,17 @@
+#### Missed Call Alert
+Missed Call from Delivery Executive
+
+*Sep 07, 2026 · 06:58 PM IST · `transactional` · informational · cta: none*
+
+---
+
+#### 
+Order delivered successfully!
+
+*Sep 07, 2026 · 06:58 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Arriving in 4 mins
 Picking up your order now
 
