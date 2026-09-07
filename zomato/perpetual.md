@@ -1,14 +1,7 @@
-#### Khan Chacha - Rolls, Kebabs And Biryani is waiting…
+#### [restaurant] is waiting…
 …for your rating! Tap to rate your order
 
 *Sep 07, 2026 · 04:36 PM IST · `engagement` · warm, informational · cta: none*
-
----
-
-#### Khan Chacha - Rolls, Kebabs And Biryani is waiting…
-…for your rating! Tap to rate your order
-
-*Sep 07, 2026 · 04:36 PM IST · `engagement` · warm, informational · cta: order_now*
 
 ---
 
