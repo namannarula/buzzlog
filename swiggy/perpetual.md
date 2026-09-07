@@ -12,7 +12,7 @@ You've earned 1 IndiGo BluChips with your Swiggy order! Keep ordering to rack up
 
 ---
 
-#### Did you enjoy your meal from Thalairaj Biryani?
+#### Did you enjoy your meal from [restaurant]?
 Tell us what you thought.
 
 *Aug 26, 2026 · 07:16 PM IST · `engagement` · informational · cta: none*
@@ -47,16 +47,3 @@ Your order is accepted
 
 ---
 
-#### (1) Table Request. 📩
-For [name] & fam at the city’s top restaurant. Tap to accept. 🥰
-
-*Aug 26, 2026 · 06:37 PM IST · `engagement` · warm, playful · cta: none*
-
----
-
-#### Not gonna let you… 🙂‍↔️
-… go hungry! 𝙎𝙬𝙞𝙜𝙜𝙮 ⚡𝘽𝙤𝙡𝙩 will be there in 𝟭𝟱 𝙢𝙞𝙣𝙨!
-
-*Aug 25, 2026 · 01:38 PM IST · `transactional` · bold, informational, playful · cta: none*
-
----
