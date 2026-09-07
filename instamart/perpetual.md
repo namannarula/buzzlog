@@ -19,13 +19,6 @@ Picking up your order now
 
 ---
 
-#### Arriving in 4 mins
-Picking up your order now
-
-*Sep 07, 2026 · 06:58 PM IST · `transactional` · informational · cta: none*
-
----
-
 #### Zoned out? Happens. 😵‍💫
 FREE delivery still waiting on your order - tap here & jump back in!
 
