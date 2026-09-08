@@ -1,3 +1,25 @@
+#### Rate your trip
+Thanks for riding with Virender! Please rate your trip, and you can also add a tip.
+
+*Sep 08, 2026 · 11:02 AM IST · `transactional` · informational · cta: none*
+
+---
+
+#### Drop-off at 11:03
+Heading to WeWork Two Horizon Centre
+
+*Sep 08, 2026 · 10:55 AM IST · `transactional` · informational · cta: none*
+
+---
+
+#### Use PIN [code]
+
+Give it to your driver at pick-up to start your ride
+
+*Sep 08, 2026 · 09:51 AM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Faster pickups, safer rides
 When you’re riding with us, your location is being collected for faster pickups and safety features. Manage permissions in your device’s location settings.
 
