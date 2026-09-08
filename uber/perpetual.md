@@ -1,3 +1,17 @@
+#### Your driver is arriving
+[driver name] is arriving soon in a Maruti Suzuki Swift Dzire (HR38AK6817). After their arrival, they will wait for 5 minutes before charges begin for their time.
+
+*Sep 08, 2026 · 05:01 PM IST · `transactional` · informational · cta: none*
+
+---
+
+#### Message from driver
+I've arrived
+
+*Sep 08, 2026 · 05:01 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Rate your trip
 Thanks for riding with [driver name]! Please rate your trip, and you can also add a tip.
 
