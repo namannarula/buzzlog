@@ -1,3 +1,10 @@
+#### Driver still waiting
+No-Show Fees may apply after 2 minutes and may increase with time.
+
+*Sep 08, 2026 · 05:06 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Your driver is arriving
 [driver name] is arriving soon in a Maruti Suzuki Swift Dzire (HR38AK6817). After their arrival, they will wait for 5 minutes before charges begin for their time.
 
