@@ -1,3 +1,10 @@
+#### Expected pickup around 5:34 pm
+Slightly delayed — reaching in under 14 min
+
+*Sep 08, 2026 · 05:19 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Reach your stop by 5:23 pm
 Bus is heading to its first stop
 
