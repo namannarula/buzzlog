@@ -6,7 +6,7 @@
 ---
 
 #### Order delivered ✅
-Your delivery partner, Vijay has delivered your order successfully
+Your delivery partner, [driver name] has delivered your order successfully
 
 *Sep 01, 2026 · 01:25 PM IST · `transactional` · informational · cta: none*
 
@@ -20,7 +20,7 @@ Your delivery partner, [name], will deliver your order soon
 ---
 
 #### That was quick 🚀
-What a quick delivery! Nagendra delivered your order 8 mins early. Tip them to appreciate their effort!
+What a quick delivery! [driver name] delivered your order [N] mins early. Tip them to appreciate their effort!
 
 *Aug 29, 2026 · 06:53 PM IST · `engagement` · playful, warm · cta: none*
 
@@ -33,14 +33,14 @@ Pay online before your order arrives and skip the hassle of cash payment ✌
 
 ---
 
-#### Order from Chinese Corner
+#### Order from [restaurant]
 Your delivery partner has reached the restaurant
 
 *Aug 29, 2026 · 06:42 PM IST · `transactional` · informational · cta: none*
 
 ---
 
-#### Nagendra is your delivery partner
+#### [driver name] is your delivery partner
 They are on their way to pick up your order
 
 *Aug 29, 2026 · 06:35 PM IST · `transactional` · informational · cta: none*
@@ -48,7 +48,7 @@ They are on their way to pick up your order
 ---
 
 #### Order accepted 👍
-Chinese Corner will begin preparing your order shortly
+[restaurant] will begin preparing your order shortly
 
 *Aug 29, 2026 · 06:35 PM IST · `transactional` · informational · cta: none*
 
