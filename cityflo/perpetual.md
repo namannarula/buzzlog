@@ -1,3 +1,10 @@
+#### Bus is arriving now
+Head to your pickup point
+
+*Sep 08, 2026 · 05:36 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Cityflo
 The bus has reached [location]. Please start tracking the bus.
 
