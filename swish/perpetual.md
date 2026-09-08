@@ -1,3 +1,10 @@
+#### ...and we’re on the move 🛵
+delivery partner is bringing your food safely. see you soon!
+
+*Sep 08, 2026 · 01:52 PM IST · `transactional` · warm, informational · cta: none*
+
+---
+
 #### your sign to order ✨
 everything under [price] 😱
 for limited time
