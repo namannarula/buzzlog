@@ -1,3 +1,11 @@
+#### your food is here! 🍽️
+unpack, take a whiff, and dig in.
+bon appétit!
+
+*Sep 08, 2026 · 02:02 PM IST · `transactional` · playful, warm · cta: none*
+
+---
+
 #### ...and we’re on the move 🛵
 delivery partner is bringing your food safely. see you soon!
 
