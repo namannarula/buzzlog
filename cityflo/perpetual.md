@@ -1,3 +1,10 @@
+#### [price] free cash waiting for you
+[price] is still to be scratched and [price] is ready to use. Open the app to claim it all before it expires.
+
+*Sep 09, 2026 · 11:01 AM IST · `promotional` · urgent, informational · cta: claim_offer*
+
+---
+
 #### How was your recent ride with Cityflo?
 Ride from - [location] to [location]
 
