@@ -1,3 +1,10 @@
+#### Payment via Uber app
+You're paying for this trip via our app, so there's no need to pay the driver directly.
+
+*Sep 09, 2026 · 11:21 AM IST · `transactional` · informational · cta: none*
+
+---
+
 #### [name] has arrived
 [id] • White Hyundai Aura
 
