@@ -1,3 +1,10 @@
+#### Time to top up 🛒
+Get [restaurant] - Taaza Paneer delivered in mins ✨
+
+*Sep 09, 2026 · 05:11 PM IST · `promotional` · informational · cta: order_now*
+
+---
+
 #### Your Order Has Arrived!
 Our delivery partner has arrived at your gate and will soon deliver your order.
 
