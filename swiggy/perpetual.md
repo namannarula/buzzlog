@@ -1,3 +1,10 @@
+#### Arriving in 7 mins
+Your order is waiting for pickup
+
+*Sep 09, 2026 · 12:27 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### IndiGo BluChips Earned!🎉
 You've earned 1 IndiGo BluChips with your Swiggy order! Keep ordering to rack up rewards!🥳
 
