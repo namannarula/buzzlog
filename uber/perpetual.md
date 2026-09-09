@@ -1,3 +1,17 @@
+#### Pick up in 3 min
+Leave by 10:33 to meet [driver name]
+
+*Sep 09, 2026 · 10:31 AM IST · `transactional` · urgent, informational · cta: none*
+
+---
+
+#### Finding your driver…
+Meet at [location]
+
+*Sep 09, 2026 · 10:31 AM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Still planning to commute?
 You're almost finished booking your commute! Simply tap here to finish requesting your ride.
 
