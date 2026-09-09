@@ -1,3 +1,10 @@
+#### Still planning to commute?
+You're almost finished booking your commute! Simply tap here to finish requesting your ride.
+
+*Sep 09, 2026 · 09:45 AM IST · `engagement` · informational, warm · cta: order_now*
+
+---
+
 #### Driver still waiting
 No-Show Fees may apply after 2 minutes and may increase with time.
 
