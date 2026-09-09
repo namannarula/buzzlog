@@ -1,3 +1,10 @@
+#### [name] has arrived
+[id] • White Hyundai Aura
+
+*Sep 09, 2026 · 10:35 AM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Pick up in 3 min
 Leave by 10:33 to meet [driver name]
 
