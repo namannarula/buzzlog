@@ -1,3 +1,10 @@
+#### Order is on its way! 🛵
+Your delivery partner, [driver name], will deliver your order in the next 15 minutes
+
+*Sep 09, 2026 · 11:36 AM IST · `transactional` · informational · cta: none*
+
+---
+
 #### All set, [name]?
  
 Because [restaurant] is all set to accept your order, tap now
