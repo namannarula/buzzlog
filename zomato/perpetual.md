@@ -1,3 +1,11 @@
+#### All set, [name]?
+ 
+Because [restaurant] is all set to accept your order, tap now
+
+*Sep 09, 2026 · 11:25 AM IST · `transactional` · informational · cta: order_now*
+
+---
+
 #### [restaurant] is waiting…
 …for your rating! Tap to rate your order
 
