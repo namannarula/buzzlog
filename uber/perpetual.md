@@ -1,3 +1,10 @@
+#### Courier arrived at the destination
+Meet the driver at the door to pick up the package from [name]. Share your PIN [code] to confirm the delivery.
+
+*Sep 09, 2026 · 02:22 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Payment via Uber app
 You're paying for this trip via our app, so there's no need to pay the driver directly.
 
