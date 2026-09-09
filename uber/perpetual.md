@@ -1,3 +1,10 @@
+#### 📦 Successfully delivered
+Your parcel has arrived. Your next delivery is just a tap away!
+
+*Sep 09, 2026 · 02:26 PM IST · `transactional` · informational · cta: order_now*
+
+---
+
 #### Courier arrived at the destination
 Meet the driver at the door to pick up the package from [name]. Share your PIN [code] to confirm the delivery.
 
