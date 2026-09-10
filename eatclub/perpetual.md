@@ -1,3 +1,10 @@
+#### We hope you enjoyed the food!
+Please take a moment and rate your experience. We would love to hear from you.
+
+*Sep 10, 2026 · 03:54 PM IST · `engagement` · warm, informational · cta: none*
+
+---
+
 #### Order dispatched
 Your Eatclub order is dispatched with [driver name] - [phone] and will reach you soon.
 
