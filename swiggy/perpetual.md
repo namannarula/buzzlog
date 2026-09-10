@@ -1,3 +1,10 @@
+#### Arriving in 23 mins
+Rider is on the way to pick up
+
+*Sep 10, 2026 · 12:10 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Arriving in 7 mins
 Your order is waiting for pickup
 
