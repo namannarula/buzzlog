@@ -1,3 +1,10 @@
+#### Reduced fleet on Sep 11 & Sep 14. No services on Sep 12 📍
+Due to local holidays, we’ll be operating with fewer vehicles on 11th & 14th September. Also, there will be no Saturday service on 12th September due to the long weekend. Plan your rides in advance on the app! 🚌
+
+*Sep 10, 2026 · 06:01 PM IST · `seasonal` · informational · cta: none*
+
+---
+
 #### Before you board...
 Don't forget to show your driver your verified pass.
 
