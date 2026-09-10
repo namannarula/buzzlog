@@ -1,3 +1,10 @@
+#### Before you board...
+Don't forget to show your driver your verified pass.
+
+*Sep 10, 2026 · 03:15 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### [price] free cash waiting for you
 [price] is still to be scratched and [price] is ready to use. Open the app to claim it all before it expires.
 
