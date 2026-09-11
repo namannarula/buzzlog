@@ -1,3 +1,10 @@
+#### Lightning fast ⚡️
+[driver name] has reached your location in just 19 mins and will deliver your order shortly. Leave a tip to appreciate their effort
+
+*Sep 11, 2026 · 11:12 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Expect your order early 🤗
 Order was picked earlier than expected, [driver name] is on their way
 
