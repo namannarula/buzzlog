@@ -1,3 +1,10 @@
+#### Zomato
+[restaurant] couldn't fulfil your order because some items in your order are out of stock. Please order different items or try another restaurant.
+
+*Sep 11, 2026 · 11:15 PM IST · `transactional` · informational · cta: order_now*
+
+---
+
 #### Lightning fast ⚡️
 [driver name] has reached your location in just 19 mins and will deliver your order shortly. Leave a tip to appreciate their effort
 
