@@ -1,3 +1,10 @@
+#### Your refund of [price] has been initiated
+Refund for your Zomato order from [restaurant] has been initiated and will be credited by Sep 12, 2026. Click to track status
+
+*Sep 11, 2026 · 11:16 PM IST · `transactional` · informational · cta: browse*
+
+---
+
 #### Zomato
 [restaurant] couldn't fulfil your order because some items in your order are out of stock. Please order different items or try another restaurant.
 
