@@ -1,3 +1,10 @@
+#### Expect your order early 🤗
+Order was picked earlier than expected, [driver name] is on their way
+
+*Sep 11, 2026 · 11:05 PM IST · `transactional` · warm · cta: none*
+
+---
+
 #### Order is on its way! 🛵
 Your delivery partner, [driver name], will deliver your order in the next 15 minutes
 
