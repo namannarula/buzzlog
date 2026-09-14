@@ -1,3 +1,10 @@
+#### Arriving in 8 mins
+Your order is out for delivery
+
+*Sep 14, 2026 · 07:21 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### 
 Order delivered before time!
 
