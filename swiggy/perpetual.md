@@ -1,3 +1,10 @@
+#### Chat with Swiggy - Item(s) quality is poor
+Before proceeding ahead, please upload photos of the item(s) you have received in your order. This helps us share feedback with our restaurant partner
+
+*Sep 14, 2026 · 01:22 PM IST · `engagement` · informational · cta: share*
+
+---
+
 #### Arriving in 23 mins
 Rider is on the way to pick up
 
