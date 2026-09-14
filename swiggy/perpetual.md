@@ -1,3 +1,10 @@
+#### 
+Order delivered before time!
+
+*Sep 14, 2026 · 05:06 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Your Refund of [price] has been credited
 Your refund has been credited to Amazon Pay Later against [id]
 
