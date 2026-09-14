@@ -1,3 +1,10 @@
+#### Your Refund of [price] has been credited
+Your refund has been credited to Amazon Pay Later against [id]
+
+*Sep 14, 2026 · 03:05 PM IST · `transactional` · informational · cta: none*
+
+---
+
 #### Chat with Swiggy - Item(s) quality is poor
 Before proceeding ahead, please upload photos of the item(s) you have received in your order. This helps us share feedback with our restaurant partner
 
