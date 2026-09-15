@@ -1,3 +1,10 @@
+#### Time to top up, [name]?
+Reorder [item] fast to your doorstep.
+
+*Sep 15, 2026 · 10:17 AM IST · `transactional` · urgent · cta: order_now*
+
+---
+
 #### Missed Call Alert
 Missed Call from Delivery Executive
 
