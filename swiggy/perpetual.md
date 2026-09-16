@@ -1,3 +1,11 @@
+#### Booked for [name]! ♥️
+
+A table at your fav spot with on Dineout at Great Indian Restaurant Festival. Tap to confirm! ✅
+
+*Sep 16, 2026 · 05:13 PM IST · `engagement` · warm, informational · cta: none*
+
+---
+
 #### Arriving in 8 mins
 Your order is out for delivery
 

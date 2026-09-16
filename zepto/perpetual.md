@@ -1,3 +1,10 @@
+#### Oh no! Almost out?
+Time to restock [restaurant] - Taaza Paneer now 🛒
+
+*Sep 16, 2026 · 05:13 PM IST · `promotional` · urgent, playful, informational · cta: order_now*
+
+---
+
 #### Time to top up 🛒
 Get [restaurant] - Taaza Paneer delivered in mins ✨
 
