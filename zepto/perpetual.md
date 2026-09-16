@@ -1,3 +1,10 @@
+#### Call on hold 📞
+From [restaurant] To say it is back in stock 🤩
+
+*Sep 16, 2026 · 07:16 PM IST · `promotional` · informational, playful · cta: order_now*
+
+---
+
 #### Oh no! Almost out?
 Time to restock [restaurant] - Taaza Paneer now 🛒
 
