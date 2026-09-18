@@ -1,3 +1,10 @@
+#### Buckle up on every trip
+Even on a short ride and seated in the back, use a seat belt for safety
+
+*Sep 18, 2026 · 04:32 PM IST · `content` · informational · cta: none*
+
+---
+
 #### 📦 Successfully delivered
 Your parcel has arrived. Your next delivery is just a tap away!
 
