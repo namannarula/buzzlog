@@ -1,3 +1,12 @@
+#### Bill received: [price] 😞
+Bill paid: [price] 😃
+Only with Swiggy Dineout!
+Book a table!
+
+*Sep 19, 2026 · 05:14 PM IST · `transactional` · informational · cta: explore*
+
+---
+
 #### Booked for [name]! ♥️
 
 A table at your fav spot with on Dineout at Great Indian Restaurant Festival. Tap to confirm! ✅
