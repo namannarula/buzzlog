@@ -1,3 +1,10 @@
+#### Rider Optional Insurance survey ✅
+We’d love to hear your thoughts. Take the survey & help us improve.
+
+*Sep 21, 2026 · 02:57 PM IST · engagement · warm, informational · cta: explore*
+
+---
+
 #### Buckle up on every trip
 Even on a short ride and seated in the back, use a seat belt for safety
 
