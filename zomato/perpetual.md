@@ -1,3 +1,10 @@
+#### That was quick 🚀
+What a quick delivery! [driver name] delivered your dinner 4 mins early. Tip them to appreciate their effort!
+
+*Sep 21, 2026 · 10:43 PM IST · `engagement` · warm informational · cta: none*
+
+---
+
 #### Your refund of [price] has been initiated
 Refund for your Zomato order from [restaurant] has been initiated and will be credited by Sep 12, 2026. Click to track status
 
