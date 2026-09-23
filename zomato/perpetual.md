@@ -1,3 +1,10 @@
+#### You've got great taste 👏
+Tap to complete your order from [restaurant]
+
+*Sep 23, 2026 · 01:03 PM IST · `transactional` · informational · cta: order_now*
+
+---
+
 #### That was quick 🚀
 What a quick delivery! [driver name] delivered your dinner 4 mins early. Tip them to appreciate their effort!
 
