@@ -1,3 +1,10 @@
+#### [price] gift confirmed ✅
+Tap to claim 👆
+
+*Sep 23, 2026 · 12:25 PM IST · `promotional` · informational · cta: claim_offer*
+
+---
+
 #### ░▒▓▒░▒▓▒░▒▓▒░▒▓▒░
 
 Scratch to reveal up to [price] 💸
