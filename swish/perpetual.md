@@ -1,3 +1,10 @@
+#### 50% OFF on your next order 😌
+feels too good to miss ✨
+
+*Sep 24, 2026 · 11:11 AM IST · `promotional` · playful, warm, informational · cta: order_now*
+
+---
+
 #### your food is here! 🍽️
 unpack, take a whiff, and dig in.
 bon appétit!
